@@ -1,0 +1,3 @@
+# AI Translator class
+
+Implements [``flan-t5``](https://huggingface.co/google/flan-t5-small)  and ``phi-2`` LLM models from Hugging Face.

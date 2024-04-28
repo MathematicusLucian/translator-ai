@@ -1,0 +1,9 @@
+/screenshot
+/screenshot/*
+env
+/env
+/env/*
+.env
+__pycache__
+/__pycache__/
+/__pycache__/*
